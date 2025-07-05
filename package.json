@@ -1,8 +1,10 @@
 {
   "name": "hotel-booking-app",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://shubhamd99.github.io/react-hotel-booking-app/",
+  "version": "1.0.0",
+  "private": false,
+  "homepage":"https://github.com/devika212/hotel-booking-app",
+  "description": "A React hotel booking app built for my senior project",
+"author": "Devika Poonumalli <devika230506@gmail.com>",
   "dependencies": {
     "@types/jest": "24.0.15",
     "@types/node": "12.0.10",
