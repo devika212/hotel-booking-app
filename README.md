@@ -1,7 +1,15 @@
-## Hotel Booking App
-https://shubhamd99.github.io/react-hotel-booking-app/
+# Hotel Booking App
 
-Hotel Booking App build with React JS with Context for state management and typescript for static type checking
+https://github.com/devika212/hotel-booking-app
+
+Hotel Booking App built with React JS using Context API for state management and TypeScript for static type checking.
+
+
+## Features
+- Search hotels by location and price
+- Book rooms and manage bookings
+- Responsive UI design
+
 
 ![alt_img](https://i.imgur.com/LFNqVsM.png)
 
