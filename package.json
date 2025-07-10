@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "homepage":"https://github.com/devika212/hotel-booking-app",
-  "description": "A React hotel booking app built for my senior project",
+  "description": "A React hotel booking app built with TypeScript and Context API for browsing and reserving hotel rooms",
 "author": "Devika Poonumalli <devika230506@gmail.com>",
   "dependencies": {
     "@types/jest": "24.0.15",
